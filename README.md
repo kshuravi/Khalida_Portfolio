@@ -1,18 +1,17 @@
-# Khalida_Portfolio
-Portfolio of Khalida Sultana Shuravi's Data Science Projects
+# [Netflix Recommendation System](https://github.com/kshuravi/Netflix_Recommendation_Model)
+* Content based recommendation system using TF-IDF, CountVectorizor & Cosine Similarity
 
-# [Credit Card Churn Prediction](https://github.com/kshuravi/Credit_Card_Churn_Prediction)
-* Predicting a client's probability of churning their credit card account and providing possible solutions to acquire more customers
+# [SQL Covid-19 Report](https://github.com/kshuravi/SQL_Covid_19_Report/blob/main/SQL_Covid_19_Report.ipynb)
+* Exploratory analysis of Covid-19 spread in Toronto by using SQL, Pandas, Seaborn and Matplotlib
+
+# [Churn Probability Prediction](https://github.com/kshuravi/Credit_Card_Churn_Prediction)
+* Finding out existing customers’ likelihood to churn their accounts by using Random Forest with the highest accuracy score among four other models. Providing possible solutions to improve customer retention process
 
 # [Mobile Price Classification](https://github.com/kshuravi/Mobile_Price_Classification)
-* Use of Logistic Regression, Decision Trees and Clustering algorithms to solve the given problem. Comparison of the accuracy scores and AUC curves are shown
+* Use of Clustering and Classification algorithms to find out some relation between features of a mobile phone (eg:- RAM,Internal Memory etc). Comparison of the accuracy scores and ROC curves are shown
 
-![](images/ram_vs_px_height.png)
-![](images/dt_vs_logistic_auc_curve.png)
+# [Oscar Nomination Prediction](https://github.com/kshuravi/Oscar_Nomination_Prediction_Model)
+* Using Decision Tree Classification Model, predicting Marvel and DC Films getting Oscar Nominations based on their ratings. Searching for other factors affecting the outcome
 
 # [Marvel vs DC Films EDA](https://github.com/kshuravi/Marvel_vs_DC_Film_EDA)
 * Exploratory Data Analysis focused on webscraping and some sweet findings!
-![](images/Marvel%20vs%20DC.png)
-
-# [Oscar Nomination Prediction Model](https://github.com/kshuravi/Oscar_Nomination_Prediction_Model)
-* Predicting Marvel and DC Films getting Oscar Nominations based on their ratings
