@@ -1,5 +1,5 @@
 # Khalida's Data Science Projects
-My projects are mostly focused on prediction analysis in both supervised and unsupervised learning. I put much effort in finding good metric scores that help me provide insights.
+My projects are mostly focused on prediction analysis in both supervised and unsupervised learning. I put much effort in finding good metric scores that help me provide insights. Click on the project names to view the projects.
 
 # [Netflix Recommendation System](https://github.com/kshuravi/Netflix_Recommendation_Model/blob/main/Netflix_Recommendation_Model.ipynb)
 * Content based recommendation system using TF-IDF, CountVectorizor & Cosine Similarity
