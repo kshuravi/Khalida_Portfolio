@@ -10,8 +10,9 @@
 # [Mobile Price Classification](https://github.com/kshuravi/Mobile_Price_Classification/blob/main/Mobile_Price_Classification.ipynb)
 * Use of Clustering and Classification algorithms to find out some relation between features of a mobile phone (eg:- RAM,Internal Memory etc). Comparison of the accuracy scores and ROC curves are shown
 
-# [Oscar Nomination Prediction](https://github.com/kshuravi/Oscar_Nomination_Prediction_Model/blob/main/Oscar_Nomination_Prediction.ipynb)
-* Using Decision Tree Classification Model, predicting Marvel and DC Films getting Oscar Nominations based on their ratings. Searching for other factors affecting the outcome
-
 # [Marvel vs DC Films EDA](https://github.com/kshuravi/Marvel_vs_DC_Film_EDA/blob/main/Marvel_vs_DC_Film_EDA.ipynb)
 * Exploratory Data Analysis focused on webscraping and some sweet findings!
+
+
+# [Oscar Nomination Prediction](https://github.com/kshuravi/Oscar_Nomination_Prediction_Model/blob/main/Oscar_Nomination_Prediction.ipynb)
+* Using Decision Tree Classification Model, predicting Marvel and DC Films getting Oscar Nominations based on their ratings. Searching for other factors affecting the outcome
