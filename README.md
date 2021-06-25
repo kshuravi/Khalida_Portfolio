@@ -8,7 +8,7 @@ My projects are mostly focused on prediction analysis in both supervised and uns
 * Exploratory analysis of Covid-19 spread in Toronto by using SQL, Pandas, Seaborn and Matplotlib
 
 # [Churn Probability Prediction](https://github.com/kshuravi/Credit_Card_Churn_Prediction/blob/main/Churn_Probability_Prediction.ipynb)
-* Finding out existing customers’ likelihood to churn their accounts by using Random Forest with the highest accuracy score among four other models. Providing possible solutions to improve customer retention process
+* Finding out existing customers’ probability to churn their accounts by using Random Forest with the highest accuracy score among four other models. Providing possible solutions to improve customer retention process
 
 # [Mobile Price Classification](https://github.com/kshuravi/Mobile_Price_Classification/blob/main/Mobile_Price_Classification.ipynb)
 * Use of Clustering and Classification algorithms to find out some relation between features of a mobile phone (eg:- RAM,Internal Memory etc). Comparison of the accuracy scores and ROC curves are shown
