@@ -19,3 +19,7 @@ My projects are mostly focused on prediction analysis in both supervised and uns
 
 # [Oscar Nomination Prediction](https://github.com/kshuravi/Oscar_Nomination_Prediction_Model/blob/main/Oscar_Nomination_Prediction.ipynb)
 * Using Decision Tree Classification Model, predicting Marvel and DC Films getting Oscar Nominations based on their ratings. Searching for other factors affecting the outcome
+
+
+# [Digimon Data Challenge](https://github.com/kshuravi/Digimon_Challenge_Khalida/blob/main/Digimon_Challenge_Khalida.ipynb)
+* Exploratory data analysis from Digimon Game Database to find out the best ratio of attack power with representation of skills, types and stages using scatterplot, barplot and countplot.
